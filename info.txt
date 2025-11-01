@@ -13,3 +13,9 @@ git push -u origin main
 
 git status
 git diff script2.js
+git log
+git how HEAD
+
+git checkout HEAD filename
+git reset HEAD filename
+git reset 7SHA
