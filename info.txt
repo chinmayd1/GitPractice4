@@ -7,4 +7,9 @@ git remote add origin https://github.com/chinmayd1/GitPractice4.git
 git push -u origin main
 
 
-# working ---->  staging ----> local repo -->    remote repo
+# working d ---->  staging ---->     local repo -->           remote repo
+#                  git add filename  git commit -m "added"    git push
+                   git add .
+
+git status
+git diff script2.js
