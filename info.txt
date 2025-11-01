@@ -16,6 +16,6 @@ git diff script2.js
 git log
 git how HEAD
 
-git checkout HEAD filename
+git checkout HEAD filename - make wd as last commit
 git reset HEAD filename
 git reset 7SHA
