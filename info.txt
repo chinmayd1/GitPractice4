@@ -1,0 +1,10 @@
+echo "# GitPractice4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chinmayd1/GitPractice4.git
+git push -u origin main
+
+
+# working ---->  staging ----> local repo -->    remote repo
